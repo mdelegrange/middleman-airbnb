@@ -1,0 +1,26 @@
+steven-chef:
+  name: "The Chef"
+  description: "I love getting out on the streets and helping people."
+  img_size: "400/400"
+  pic_size: "300/300"
+  banner_size: "1000/400"
+steven-panda:
+  name: "The Panda"
+  description: "My CIA godfather told me he'd never heard any American speak Japanese so well."
+  img_size: "300/300"
+  pic_size: "800/800"
+  banner_size: "1000/400"
+steven-guitar:
+  name: "The Guitar"
+  description: "Any great warrior is also a scholar, and a poet, and an artist."
+  img_size: "500/500"
+  pic_size: "500/500"
+  banner_size: "1000/400"
+steven-gun:
+  name: "The Gun"
+  description: "I have no fear of death. More important, I don't fear life."
+  img_size: "450/450"
+  pic_size: "900/900"
+  banner_size: "1000/400"
+
+
